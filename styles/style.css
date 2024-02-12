@@ -4,14 +4,74 @@ body {
     padding: 0;
   }
   
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
+  /* header {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 10px;
+  } */
+  
+  .container {
+    background-color: white;
+  }
+
+  .head-container {
+    background-color: #333333;
+    padding: 10px;
+    margin-bottom: 0px;
   }
   
-  .logo {
-    border-radius: 7px;
+  .namesite {
+    text-align: left;
+    font-size: 45px;
+    color: white;
+    width: 90%;
+    float: left;
+    padding: 15px;
+    /* height: 38px; */
+  }
+
+  .logonstu {
+    border-radius: 13%;
+  }
+
+  .navcontainer {
+    background-color: #606060;
+    font-size: 20px;
+    padding: 7px;
+  }
+
+  .mainpage {
+    padding: 10px;
+    margin: 25%;
+  }
+
+  .about-us {
+    padding: 10px;
+  }
+  /* .navcontainer span {
+    padding: 10px;
+  } */
+
+  /* .logo {
+    border-radius: 15%;
+    float:left;
+  }
+
+  .namesite-logo {
+    display: inline;
+    margin: 0px;
+    vertical-align: middle;
+    text-align: center;
+  } */
+
+  div a {
+    color: white;
+    text-decoration: none;
+  }
+
+  /* nav {
+    text-align: end;
+    font-size: 18px;
   }
 
   nav ul {
@@ -28,14 +88,14 @@ body {
   nav ul li a {
     color: #fff;
     text-decoration: none;
-  }
+  } */
   
   main {
     padding: 20px;
   }
   
   section {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
   
   h2 {
