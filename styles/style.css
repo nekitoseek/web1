@@ -60,6 +60,8 @@ body {
 
   .all-rights-reserved {
     margin: 15px;
+    margin-top: 13px;
+    text-align: center;
   }
 
   .all-rights-reserved a {
@@ -99,5 +101,5 @@ body {
     color: #fff;
     padding: 15px;
     text-align: center;
-    margin-top: 430px;
+    margin-top: 435px;
   }
