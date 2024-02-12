@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
     margin: 0;
     padding: 0;
   }
@@ -37,7 +37,7 @@ body {
   .navcontainer {
     background-color: #606060;
     font-size: 20px;
-    padding: 7px;
+    padding: 9px;
   }
 
   .mainpage {
@@ -48,20 +48,18 @@ body {
   .about-us {
     padding: 10px;
   }
-  /* .navcontainer span {
-    padding: 10px;
-  } */
 
-  /* .logo {
-    border-radius: 15%;
-    float:left;
+  .news {
+    padding-top: 10px;
   }
 
-  .namesite-logo {
-    display: inline;
-    margin: 0px;
-    vertical-align: middle;
-    text-align: center;
+  .welcome {
+    font-size: 25px;
+    padding-left: 10px;
+  }
+
+  /* .navcontainer span {
+    padding: 10px;
   } */
 
   div a {
@@ -69,27 +67,6 @@ body {
     text-decoration: none;
   }
 
-  /* nav {
-    text-align: end;
-    font-size: 18px;
-  }
-
-  nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  nav ul li {
-    display: inline;
-    margin-right: 10px;
-  }
-  
-  nav ul li a {
-    color: #fff;
-    text-decoration: none;
-  } */
-  
   main {
     padding: 20px;
   }
@@ -115,5 +92,5 @@ body {
     color: #fff;
     padding: 20px;
     text-align: center;
-    margin-top: 1000px;
+    margin-top: 600px;
   }
