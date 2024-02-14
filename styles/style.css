@@ -67,6 +67,13 @@ body {
   .all-rights-reserved a {
     text-decoration: underline;
   }
+
+.newses {
+    text-align: left;
+    padding: 10px;
+    margin-right: 80%;
+}
+
   /* .navcontainer span {
     padding: 10px;
   } */
