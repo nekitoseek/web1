@@ -43,13 +43,53 @@ body {
     text-align: center;
   }
 
-  .news {
-    padding-top: 10px;
+  .newsgrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 30px;
+    text-align: center;
+    border: 9px solid #9e9e9e;
+    border-radius: 2%;
+    background-color: #ffffff;
+  }
+
+  .news1 h1 {
+    font-size: 18px;
+  }
+
+  .news2 h1 {
+    font-size: 18px;
+  }
+
+  .news3 h1 {
+    font-size: 18px;
+  }
+
+  .news4 h1 {
+    font-size: 18px;
+  }
+
+  .news1 {
+    background-color: #8d8d8d;
+  }
+
+  .news2 {
+    background-color: #8d8d8d;
+  }
+
+  .news3 {
+    background-color: #8d8d8d;
+  }
+
+  .news4 {
+    background-color: #8d8d8d;
   }
 
   .welcome {
     font-size: 25px;
     padding-left: 10px;
+    font-size: 18px;
+    text-align: center;
   }
 
   .all-rights-reserved {
