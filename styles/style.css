@@ -206,18 +206,42 @@ body {
     margin-bottom: 10px;
   }
   
-  h2 {
+  /* h2 {
     color: #333;
-  }
+  } */
   
-  article {
+  /* article {
     margin-bottom: 20px;
   }
   
   h3 {
     color: #333;
+  } */
+
+  .newscontainer {
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 30px;
+    font-size: 24px;
+    text-align: justify;
+  }
+
+  .newscontainer h1 {
+    text-align: start;
+  }
+
+  .imgnews {
+    margin-right: 30px;
+    margin-bottom: 5px;
   }
   
+  .h1-48 {
+    font-size: 48px;
+  }
+
+
+
   footer {
     background-color: #333;
     color: #fff;
