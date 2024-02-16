@@ -78,6 +78,33 @@ body {
     padding: 10px;
   } */
 
+  .photos {
+    text-align: center;
+  }
+
+  .ph-nik {
+    border-radius: 2%;
+    margin-right: 100px;
+    margin-top: 20px;
+    border: 20px solid #333333;
+  }
+
+  .ph-egor {
+    border-radius: 2%;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: 20px solid #333333;
+  }
+
+  .name1{
+    margin-right: 43%;
+    padding: 0px;
+  }
+  
+  .name2 {
+    
+  }
+
   div a {
     color: white;
     text-decoration: none;
