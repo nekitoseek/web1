@@ -35,18 +35,12 @@ body {
   }
 
   .navcontainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     background-color: #606060;
     font-size: 20px;
     padding: 9px;
-  }
-
-  .mainpage {
-    padding: 10px;
-    margin: 25%;
-  }
-
-  .about-us {
-    padding: 10px;
+    text-align: center;
   }
 
   .news {
@@ -68,7 +62,7 @@ body {
     text-decoration: underline;
   }
 
-.newses {
+  .newses {
     text-align: left;
     padding: 10px;
     margin-right: 80%;
