@@ -43,7 +43,6 @@ body {
     margin-right: 100px;
     margin-bottom: 30px;
     text-align: center;
-    border: 9px solid #ffffff;
     border-radius: 2%;
     background-color: #ffffff;
   }
@@ -209,6 +208,11 @@ body {
   
   .h1-48 {
     font-size: 48px;
+  }
+
+  .newstime {
+    font-style: italic;
+    font-size: 17px;
   }
 
   footer {
